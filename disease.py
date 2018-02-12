@@ -1,5 +1,5 @@
 def disease ():
     print ('function')
-    q = 55 + 11
+    q = 24 + 15
     print (q)
 disease ()
